@@ -11,35 +11,41 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
+* PhD in City & Regional Planning, University of Pennsylvania, Weitzman School of Design, 2028 (expected)
+* Master of Science in Social Policy (MSSP), University of Pennsylvania, School of Social Policy & Practice, 2024
+* Master in City Planning (MCP), Massachusetts Institute of Technology, Department of Urban Studies & Planning, 2014
+    * Concentration in Housing, Community and Economic Development
+* Bachelor of Arts in Economics, Stanford University, 2009
+    * Minor in African and African American Studies
+* Public Policy & International Affairs (PPIA) Law Fellow, University of California at Berkely, Goldman School of Public Policy, 2008
+    
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2024: Research Assistant, Weitzman School of Design
+  * Supervisor: Vincent Reina, PhD
 
-* Fall 2015: Research Assistant
-  * Github University
+* Spring 2013: Research Assistant, MassEconomics LLC
+  * Project: Community LIFT, Memphis, TN
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Teresa M. Lynch
+    
+* Fall 2011: Graduate Research Assistant
+  * MIT@Lawrence Partnership
+  * Supervisor: Ezra Glen, PhD
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2006-Spring 2007: Research Assistant, Hiphop Archive
+  * Supervisor: Marcyliena Morgan, PhD
+  
+* Fall 2005-Spring 2006: Research Intern, MLK Research & Education Institute
+  * Supervisor: Brandon Hunter
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Affordable housing finance and development
+* Wordpress web development
+* Geospatial and statistical data science & analysis
+  * ArcGIS, QGIS, R Studio, Python, SQL)
+* Organizing & volunteer management
 
 Publications
 ======
@@ -59,6 +65,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+

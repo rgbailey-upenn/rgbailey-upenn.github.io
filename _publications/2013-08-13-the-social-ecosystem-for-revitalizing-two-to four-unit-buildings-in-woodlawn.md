@@ -2,7 +2,7 @@
 title: "The Social Ecosystem for Revitalizing Two- to Four-Unit Buildings in Woodlawn: A Case
 Study and Strategic Plan"
 collection: publications
-category: theses
+category: manuscripts
 permalink: /publication/2013-08-13-the-social-ecosystem-for-revitalizing-two-to four-unit-buildings-in-woodlawn.md
 excerpt: 'This thesis was submitted in fulfillment of my Master in City Planning at MIT DUSP. It applies a social ecosystem framework to the planning and preservation of 2-4 unit buildings in Chicago's Southside neighborhood of Woodlawn.'
 date: 2013-8-13
