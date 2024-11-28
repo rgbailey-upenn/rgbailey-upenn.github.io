@@ -3,12 +3,13 @@ title: "The Social Ecosystem for Revitalizing Two- to Four-Unit Buildings in Woo
 Study and Strategic Plan"
 collection: publications
 category: manuscripts
-permalink: /publication/2013-08-13-the-social-ecosystem-for-revitalizing-two-to four-unit-buildings-in-woodlawn.md
+permalink: /publication/2013-08-13-the-social-ecosystem-2-4-unit-buildings.md
 excerpt: 'This thesis was submitted in fulfillment of my Master in City Planning at MIT DUSP. It applies a social ecosystem framework to the planning and preservation of 2-4 unit buildings in Chicago's Southside neighborhood of Woodlawn.'
 date: 2013-8-13
 venue: 'Department of Urban Studies & Planning, Massachusetts Institute of Technology'
 paperurl: 'files/graham-bailey-2013-thesis-web.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Graham-Bailey, Rance. (2013). &quot;The Social Ecosystem for Revitalizing Two- to Four-Unit Buildings in Woodlawn: A Case
+Study and Strategic Plan.&quot; <i>DSpace\@MIT</i>.'
 ---
 
 The social ecosystem approach explores the individuals and organizations that help effect a

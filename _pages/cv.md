@@ -26,7 +26,6 @@ Research experience
 
 * Spring 2013: Research Assistant, MassEconomics LLC
   * Project: Community LIFT, Memphis, TN
-  * Duties included: Merging pull requests
   * Supervisor: Teresa M. Lynch
     
 * Fall 2011: Graduate Research Assistant
